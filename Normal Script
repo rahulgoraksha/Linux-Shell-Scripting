@@ -5,7 +5,7 @@ vim Bible_study.sh
 
 #!/bin/bash
 
-echo "God: How does the world look like"
+echo "God: How does the world look like ?"
 echo "Disciple: Great to leave here in your presence"
 echo "God: Good to here from you, let the lord always be with you"
 
