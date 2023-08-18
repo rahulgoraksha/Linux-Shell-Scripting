@@ -21,5 +21,5 @@ chmod 700 if-loop.sh
 ./if-loop.sh
 
 <<output
-will list all the files name present in that directory
+will display the required output
 output
